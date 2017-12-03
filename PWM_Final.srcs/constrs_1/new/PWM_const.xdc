@@ -69,30 +69,6 @@ set_property IOSTANDARD LVCMOS33 [get_ports {Frequency[12]}]
 
 #OUTPUTS
 
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
-# Constraints for Wave
-
 ## Constraints for Wave
 #set_property PACKAGE_PIN W18 [get_ports Wave]
 #set_property IOSTANDARD LVCMOS33 [get_ports Wave]
